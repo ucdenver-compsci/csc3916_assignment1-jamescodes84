@@ -39,4 +39,4 @@ You will create a Postman collection and create a REST test within the project. 
 - https://devcenter.heroku.com/articles/config-vars 
 - https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/jamesreynolds9/workspace/csci-3916-james-reynolds/request/32606808-3e5fe50e-000a-4de2-8a04-150b0c48fb19?ctx=documentation)

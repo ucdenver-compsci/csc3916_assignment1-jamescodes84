@@ -4,7 +4,8 @@
   "description": "Echo App",
   "main": "app.js",
   "scripts": {
-    "test": "mocha --timeout 10000 --exit"
+    "test": "mocha --timeout 10000 --exit",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
